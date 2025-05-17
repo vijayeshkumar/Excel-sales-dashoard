@@ -1,0 +1,71 @@
+khan acadey, Excel,google sheet,sql,power bi,tableu,python.
+how to be a data analyst by utilising AI.
+1. Row and columns merge and center
+2.adjust column by double click according to text
+3.insert a new or forgotten column from left side
+4.select a complete column to fill automatic serial no or anything.
+5. text colour change
+6.add multiple and single rows.
+7.add multiple and single column.
+8. select entire row or column by a click
+9. to convert columns into row = transpose
+10.to remove blank rows and columns using find and select.
+11. how to freeze rows and columns.
+12. to convert numbers into words by developer tool.
+13. to combine all the text box of a rows in one line.(=a2&" "&b2)
+14. to add date [=today()],to remain constant press key [ctrl+;].
+15.to add time [ctrl+shift+;].
+16.to change date format by using format cells option.
+17.to calculate age (=datedif(A2,today(),"Y").
+18.to calculate time difference =a2-b2.
+19. sum =sum().
+20. sub =sub().
+21. average =average().
+22. concatenate =concatenate(). to combine first and last name.
+23. conditional formatting= to determine highest and lowest number by highlighting through colours.
+24. to search any name in spreadsheet= click on data tab and filter in style ribbon.
+25. to remove duplicate= go to data and click remove duplicates in style ribbon.
+26. to find duplicates= go to home click on conditional formatting then find duplicates.
+27. to convert upper case to lower [=LOWER(select the text and drag)].
+28. to wrap text= click on cells then click wrap.
+29. to convert lower case to upper [=UPPER(select the text and drag)].
+30. use of group= it is used for presentation.
+31. for dropdown or selected option in cells= data validation.
+32. use of sort and filter= to compare and find what we want from spreadsheet.
+33. to insert excel sheet in ppt= open ppt go to insert then click on object then choose the excel sheet in create new file and select display as icon.
+34. to insert pdf in excel sheet= go to insert then click on object then choose your pdf.
+35. to spread text or text splitting (ravi@gmail= ravi  gmail.com) use data tab and click text to column.
+36. min =min()
+37. max =max()
+38. right =right(d4,5) [if we required 5 number from multiple number from right side]
+39  left =left(d4,2) [if we required 2 number from left side]
+40. how to insert pdf in excel= click on data then get data then from file then from pdf.
+41. find and select= to find blanks and delete.
+42. to add watermark= go to insert click on header and footer then insert picture....use format picture to adjust.
+43. round off,round down,round up= ex=5.4, round off=5,round down=5,round up=6, formula =round(d1,0).
+44. pivot table= it is use to analyse,summarise,calculation,trend,pattern.it is also used to make charts.
+45. to insert shape,image= go to insert then click shape or picture and set according to you in excel.
+46. to insert a link or website= select a box go to insert click on link copy that link in address.short key= ctrl+k.
+47. to insert a sheet in other sheet= select a box go to insert click on link click on place in this document then select sheet.
+48. to remove link= right click on that box then click on remove hyperlink.
+49. for data validation= select a table then fill the details you want then click on data then data validation then you can fill in that box according to your table only.it can also be used to fill the data only from given dropdown with a symbol of error.
+50. to use filter= go to data then click on filter to find anything you want from data.
+51. to use sort= it is use to check the data according to you.
+52. use of slicer= to visualise or analyse from data.also used for cut unwanted columns.
+53. use of comment= to highlight something in a box right click then click on add comment ex= a is working in sales now he is promoted to asm then comment is use.
+54. chart=go to insert then click on charts then all charts like column,line,pie,bar etc.
+55. To lock and create password in the sheet= by clicking right click and select format cell then protection.
+56. use of macros= to create a new formula by using developer option.
+57. vlook formula= it is use to find details in a huge data formula=  =vlookup(select the name you want to know about,select the list of data from which you want to find,then use fn+f4 to lock data,then write the column number,then write 0 for accurate detail of that data then enter.
+NOTES=vlookup always looks up to the right.
+question= if data is in row how to use vlookup.
+58. Hlookup= it is same as vlookup but used for row.
+59. vstack= is is used to combine all the data set and tables in one coloumn.
+60. indirect= it is used to find the required data according to cells.
+61. web query= it is used to export data in excel through websites. Go to data option then click on get data then click from other source then click from web.
+63. user form= it is used to fill the details by user in developer option.
+64. gantt chart= it is used to analyse project progress report.it can be downloaded through excel template.
+NOTES= Main components for making a charts are trend,seasonality,cyclicity,irregularity.
+
+pivot table,vlookup,hlookup,flter,sort,data validation,conditional formatting,if sumif,mean,mode,median,variance,standard daviation,index match,
+
